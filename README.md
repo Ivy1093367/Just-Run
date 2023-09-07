@@ -36,12 +36,12 @@
 <img src="Image/Rules4.png" width="40%"/>
 
 ## 四、遊戲畫面
-### 起始畫面
+* 起始畫面
 <img src="Image/first.png" width="40%" />
 
-### 遊戲途中畫面
+* 遊戲途中畫面
 <img src="Image/gamerun_1.png" width="40%" />
 <img src="Image/gamerun_2.png" width="40%" />
 
-### 遊戲結束畫面
+* 遊戲結束畫面
 <img src="Image/gamerun_3.png" width="40%" />
