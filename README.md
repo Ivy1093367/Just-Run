@@ -34,6 +34,7 @@
 <img src="Image/Rules2.png" width="40%" />
 <img src="Image/Rules3.png" width="40%" />
 <img src="Image/Rules4.png" width="40%"/>
+
 ## 四、遊戲畫面
 ### 起始畫面
 <img src="Image/first.png" width="40%" />
