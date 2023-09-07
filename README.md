@@ -1,2 +1,2 @@
 # Just-Run
-<img src="Image/Icon.png" width="50%">
+<img src="Image/Icon.png" width="30%">
