@@ -9,7 +9,7 @@
 1. 確認電腦有無下載 Java。
 2. 開啟Window輸入 cmd 進入命令提示字元。
 3. 進入下載好的Just-Run資料夾路徑。
-  1.  > cd xxx/xxx/Just-Run
+     > cd xxx/xxx/Just-Run
 4. 輸入以下指令進行程式安裝編譯。
   > javac *.java
 5. 輸入 java java Group14_Game進行遊戲。
