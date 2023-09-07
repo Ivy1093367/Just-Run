@@ -31,13 +31,15 @@
    *  OK 蹦(bandaid)-恢復玩家一條生命。
    *  時空裂縫(rift)-更換場景，掉到另外一個沒有障礙物的空間，可賺取大量筆記的地方。
    *  梯子(ladder)-裝備梯子後可迴避障礙物一次(無敵狀態)。一開始玩家預設為 3 把梯子，沿途可蒐集增加，上限 10 把。
-<img src="Image/Rules2.png" width="40%" >
-<img src="Image/Rules3.png" width="40%" >
+<img src="Image/Rules2.png" width="40%" />
+<img src="Image/Rules3.png" width="40%" />
 <img src="Image/Rules4.png" width="40%"/>
 ## 四、遊戲畫面
 ### 起始畫面
 <img src="Image/first.png" width="40%" />
 ### 遊戲途中畫面
-
+<img src="Image/gamerun_1.png" width="40%" />
+<img src="Image/gamerun_2.png" width="40%" />
 ### 遊戲結束畫面
+<img src="Image/gamerun_3.png" width="40%" />
 <img src="Image/ending.png" width="40%" />
