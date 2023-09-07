@@ -11,6 +11,6 @@
 3. 進入下載好的Just-Run資料夾路徑。
      > cd xxx/xxx/Just-Run
 4. 輸入以下指令進行程式安裝編譯。
-  > javac *.java
+     > javac *.java
 5. 輸入 java java Group14_Game進行遊戲。
-  > java java Group14_Game
+     > java java Group14_Game
