@@ -1,5 +1,5 @@
 # Just-Run
-<img src="Image/Icon.png" width="40%">
+<img src="Image/Icon.png" width="40%"/>
 
 # 一、遊戲介紹
 主題源自「Subway Surfer」，此專案以Java程式語言實作，透過GUI呈現。
